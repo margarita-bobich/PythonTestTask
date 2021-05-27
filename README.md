@@ -1,6 +1,5 @@
 # PyPI howto
 
-
 ## Executive summary
 
 - You need to create `~/.pypirc` and a `setup.py` for your project (examples below).
